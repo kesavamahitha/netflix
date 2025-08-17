@@ -2,7 +2,7 @@
 
 ## 📌 About the Project  
 - Designed and normalized a **database schema** for the Netflix dataset.  
-- Wrote **25+ analytical SQL queries** to uncover insights such as:  
+- Wrote **15+ analytical SQL queries** to uncover insights such as:  
   - Top genres by popularity  
   - Yearly content trends and growth rates  
   - Most frequent actor–director collaborations  
